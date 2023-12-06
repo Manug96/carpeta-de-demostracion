@@ -6,3 +6,4 @@ Supervisar que los registros financieros sean consistentes.
 Auditar a los clientes o departamentos de una empresa.
 Revisar los documentos y los informes.
 Asegurarse de que los activos estén justificados correctamente.
+cambios nuevos en la nueva rama
